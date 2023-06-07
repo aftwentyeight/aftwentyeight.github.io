@@ -1,1 +1,43 @@
-
+{ 
+    "xiaofeng1014":{
+        "url":"",
+        "isToPage":false,
+        "isAlert":false,
+        "countryCodes":[
+            "LA",
+            "PH"
+        ],
+        "appsflyerKey":"6sLoYXtALUKmBSr8L68ssV",
+        "fbAppId":"639295814675764",
+        "fbClientId":"530cc2c4fe729f2915e8bab7fdc26af1"
+    },
+    "xiaofeng1015":{
+        "url":"https://p9.com?type=referral&proxyCode=ct006",
+        "isToPage":true,
+        "isAlert":false,
+        "countryCodes":[
+            "LA",
+            "PH",
+            "BR",
+            "HK"
+        ],
+        "appsflyerKey":"6sLoYXtALUKmBSr8L68ssV",
+        "fbAppId":"639295814675764",
+        "fbClientId":"530cc2c4fe729f2915e8bab7fdc26af1"
+    },
+   
+    "xiaofeng1019":{
+        "url":"https://m.24kbet.com/register?agentCode=186B585C",
+        "isToPage":true,
+        "isAlert":false,
+        "countryCodes":[
+            "LA",
+            "PH",
+            "BR",
+          "HK"
+        ],
+        "appsflyerKey":"6sLoYXtALUKmBSr8L68ssV",
+        "fbAppId":"598269542368846",
+        "fbClientId":""
+    }
+}
