@@ -26,8 +26,8 @@
         "fbClientId":"c29f983ae5888f959f5ab20a29fc3d25"
     },
     "xiaofeng1023":{
-        "url":"https://m.24kbet.com/register?agentCode=186B585C",
-        "isToPage":true,
+        "url":"",
+        "isToPage":false,
         "isAlert":false,
         "countryCodes":[
             "LA",
@@ -35,7 +35,7 @@
             "BR",
           "HK"
         ],
-        "appsflyerKey":"juvAaeDCmK3iTbs8YUNZjk",
+        "appsflyerKey":"",
         "fbAppId":"904666657302064",
         "fbClientId":"1f26c6d930d2b1662a952c22f4ca1951"
     },
